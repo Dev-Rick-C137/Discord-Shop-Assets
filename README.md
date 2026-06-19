@@ -19,3 +19,10 @@ This repository is neatly structured to help you quickly find what you need. Bel
 
 > 📢 **Note:** We are actively working on organizing and uploading the **Nameplates** and **Profile Decorations**. They will be added to the repository very soon! Stay tuned.
 
+---
+
+## 🚀 Usage
+
+1. **Download:** Click the green `<> Code` button at the top right and select `Download ZIP`, or clone the repository via Git:
+   ```bash
+   git clone [https://github.com/](https://github.com/)[Your-Username]/[Repository-Name].git
