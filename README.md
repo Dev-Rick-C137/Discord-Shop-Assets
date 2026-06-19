@@ -74,7 +74,7 @@ Once downloaded, apply the asset directly in your Discord **User Settings**.
 
 | Avatar Decorations | Nameplates | Profile Decorations |
 |:---:|:---:|:---:|
-| ![preview-1](link-to-image) | ![preview-2](link-to-image) | ![preview-3](link-to-image) |
+| ![preview-1](https://cdn.discordapp.com/attachments/1463664619972329667/1517662932584890398/image.png?ex=6a37193f&is=6a35c7bf&hm=86a1b6dc8d1012cc7975c22cae6cdb53fcf868b3d291624b0ab34d27411021e4&) | ![preview-2](https://cdn.discordapp.com/attachments/1463664619972329667/1517663531842142398/image.png?ex=6a3719ce&is=6a35c84e&hm=57e3f7df6029c98d600d80e18c840be8a8e21ff6c8bd350ecc9cd013e5d06d7b&) | ![preview-3](https://cdn.discordapp.com/attachments/1463664619972329667/1517663547684032512/image.png?ex=6a3719d2&is=6a35c852&hm=5c52a6a24fe9da1665ebb267b5e868529f8e8118c583cda3ca7139ae32525a2f&) |
 
 </div>
 
