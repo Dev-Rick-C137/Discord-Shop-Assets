@@ -1,5 +1,5 @@
 <div align="center">
- 
+
 # 🎨 discord-assets
 
 ### Official Discord Shop Assets — Organized & Ready to Use
@@ -97,7 +97,7 @@ Please make sure any assets you contribute are official Discord Shop assets and 
 
 ## 📜 License
 
-This project is licensed under the **[License Name]** — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **CC0-1.0 license** — see the [LICENSE](LICENSE) file for details.
 
 ## 💬 Community & Support
 
